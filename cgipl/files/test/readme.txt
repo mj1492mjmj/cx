@@ -1,1 +1,1 @@
-dummy soubor pro demonstraci chovani puppetu
+test.txt //dummy soubor pro demonstraci chovani puppetu
