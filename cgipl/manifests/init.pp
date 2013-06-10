@@ -32,7 +32,7 @@ notify {"zacina se instalovat":}
                 source => "puppet:///modules/cgipl/httpd.conf",
                 }
 # jde to i jinak. Jde to i do podadresare
-# demonstracni soubor nulove delky test.txt je v: /etc/puppetlabs/puppet/modules/cgipl/files/test
+# demonstracni soubor minimalni delky test.txt je v: /etc/puppetlabs/puppet/modules/cgipl/files/test
 
 
        file { "/tmp/cgi.plxxxxxx":
