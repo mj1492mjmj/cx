@@ -36,3 +36,4 @@ print "Sítě:  ", "<BR>", $ifaddr , "<BR>", "\n";
 print "<HR></PRE>", "\n";
 print "<p></p>\n";
 print "</body> </html>\n"
+
